@@ -20,21 +20,6 @@ The **Login Form** is a web application designed to provide a secure and user-fr
 - **CSS**: Styles the form to create a modern and responsive design.
 - **JavaScript**: Manages the interactive elements, including form validation and error handling.
 
-## Project Structure
-
-Here’s an overview of the project structure:
-
-```
-Login-Form/
-├── index.html
-├── style.css
-└── script.js
-```
-
-- **index.html**: Contains the HTML structure for the Login Form.
-- **style.css**: Includes CSS styles to create an engaging and responsive design.
-- **script.js**: Manages the interactive elements of the form, such as validation.
-
 ## Installation
 
 To get started with the project, follow these steps:
